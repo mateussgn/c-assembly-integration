@@ -18,3 +18,7 @@ The array must have at most ten positions, filled by the user and sorted by the 
  5. Run: `gcc -m32 -o integration integrationcassembly.c sortArray.o`
  6. This will generate the integration file and you can run the program from it. Run `./integration`
  7. Have fun!
+
+# Authors
+ - [Mateus Santana](https://github.com/mateussgn)
+ - [Paulo Vinicius](https://github.com/pvfls)
